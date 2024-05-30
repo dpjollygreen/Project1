@@ -1,1 +1,1 @@
-JGrasp is a Java IDE.  I have used it before  and it suited my purposes.  JGrasp reportedly has fewer options than IntelliJ.  JGrasp is user friendly.
+JGrasp is a Java IDE.  I have used it before  and it suited my purposes.  JGrasp reportedly has fewer options than IntelliJ.  JGrasp is user friendly.  While JGrasp might be a more user friendly IDE I wanted to develop with one that won't limit me later on down the road so I went with IntelliJ.
