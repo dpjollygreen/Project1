@@ -1,0 +1,1 @@
+I chose the IntelliJ IDE for this course.  I have used it before in another class.  It supports all of the needs I have for Java and then some.
