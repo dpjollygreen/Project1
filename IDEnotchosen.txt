@@ -1,0 +1,1 @@
+JGrasp is a Java IDE.  I have used it before  and it suited my purposes.  JGrasp reportedly has fewer options than IntelliJ.  JGrasp is user friendly.
